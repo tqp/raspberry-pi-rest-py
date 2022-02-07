@@ -1,3 +1,5 @@
+# REF: https://www.tutorialspoint.com/event-scheduler-in-python
+
 import time
 
 import requests
