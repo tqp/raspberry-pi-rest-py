@@ -5,7 +5,7 @@ import schedule
 import ctypes
 import smbus
 
-#api_url = 'https://server.timsanalytics.com/api/v1/raspberry/test'
+#api_url = 'https://server.com/api/v1/raspberry/test'
 api_url = 'http://192.168.0.17:5000/api/v1/raspberry/test'
 
 #i2c address
